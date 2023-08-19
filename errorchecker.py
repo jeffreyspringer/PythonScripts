@@ -1,4 +1,4 @@
-seq1 = input("What is the first set text? ") 
+seq1 = input("What is the first set of text? ") 
 seq2 = input("What is the second set of text? ")
 
 zip_seqs = zip(seq1, seq2)
